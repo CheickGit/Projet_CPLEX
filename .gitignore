@@ -1,6 +1,6 @@
 # Environnement virtuel Python (adaptez le chemin si votre .venv est dans un sous-dossier)
 .venv/
-codeML/.venv/ # Si votre structure est Projet_CPLEX/codeML/.venv/
+codeML/venv/ # Si votre structure est Projet_CPLEX/codeML/.venv/
 
 # Fichiers Python compilés et caches
 *.pyc

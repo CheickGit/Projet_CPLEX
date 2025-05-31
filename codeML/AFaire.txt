@@ -1,0 +1,6 @@
+On a un graphe avec des noeuds(avec liaison)
+On a instances avec nbre des noeuds et arrete
+Pour chaque noeud on peut avoir une demande (origine ou destination avec 10 unité de flot
+Commodité(marchandise ou demande) 
+chaque arete a une capacité de 10 unité de flot
+arete(origine, destination)
